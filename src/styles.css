@@ -75,7 +75,7 @@ li>button:hover {
 
 #modal {
     text-align: left;
-    margin: 10px;
+    margin: 15px;
     padding: 10px;
     background: #fff;
     border-radius: 10px;
@@ -89,6 +89,9 @@ input {
     line-height: 50px;
     text-indent: 10px;
     font-size: 1.2em;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 3px 4px 14px 0px rgba(0, 0, 0, 0.39);
 }
 
 .danger {
